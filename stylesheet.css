@@ -1,0 +1,17 @@
+.close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 8px 16px;
+  }
+
+  .close:hover {
+    background-color: #0D6EFD;
+    color: white;
+  }
+
+  ul li{
+      cursor: pointer;
+      margin: 5px 0px;
+      font-size: 1.2em;
+  }
